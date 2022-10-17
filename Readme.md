@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hardik Garg</h1>
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
-
+<img align="center" src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="70%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardik12c&label=Profile%20views&color=0e75b6&style=flat" alt="hardik12c" /> </p>
 
 - 🌱 I’m currently learning **Advance Javascript**
