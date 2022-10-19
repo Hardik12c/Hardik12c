@@ -29,4 +29,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hardik12c&show_icons=true&locale=en" alt="hardik12c" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hardik12c&" alt="hardik12c" /></p>
-[![Hardik Garg's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Hardik12c&&theme=xcode)](https://github.com/Hardik12c)
+<h2 align='center'><i><a href="https://github.com/Ashutosh00710/github-readme-activity-graph">Activity Graph 📈</i></h2>
+<p align="center">
+<a href="https://github.com/Hardik12c/github-readme-activity-graph#gh-light-mode-only">
+ <img src="https://activity-graph.herokuapp.com/graph?username=Hardik12c&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
+</a>
+<a href="https://github.com/Hardik12c/github-readme-activity-graph#gh-dark-mode-only">
+ <img src="https://activity-graph.herokuapp.com/graph?username=Hardik12c&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+</a>
+</p>
