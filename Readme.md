@@ -29,4 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hardik12c&show_icons=true&locale=en" alt="hardik12c" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hardik12c&" alt="hardik12c" /></p>
-[![Shiv Shankar's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=shivprime94&&theme=xcode)](https://github.com/shivprime94)
+[![Hardik Garg's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Hardik12c&&theme=xcode)](https://github.com/Hardik12c)
