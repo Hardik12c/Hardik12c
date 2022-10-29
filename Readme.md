@@ -37,4 +37,8 @@
 <a href="https://github.com/Hardik12c/github-readme-activity-graph#gh-dark-mode-only">
  <img src="https://activity-graph.herokuapp.com/graph?username=Hardik12c&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
 </a>
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
 </p>
