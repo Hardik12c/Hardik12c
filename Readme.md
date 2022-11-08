@@ -27,7 +27,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hardik12c&show_icons=true&locale=en&layout=compact" alt="hardik12c" /></p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hardik12c&show_icons=true&locale=en" alt="hardik12c" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hardik12c&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="hardik12c" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hardik12c&" alt="hardik12c" /></p>
 <h2 align='center'><i>Activity Graph 📈</i></h2>
