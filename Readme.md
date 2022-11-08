@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Advance Javascript**
 
-- 💬 Ask me about **React, Frontend Development, JavaScript and DSA**
+- 💬 Ask me about **DSA, Frontend Development, JavaScript **
 
 - 📫 How to reach me **hardik12c@gmail.com**
 
