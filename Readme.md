@@ -28,7 +28,9 @@
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hardik12c&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="hardik12c" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hardik12c&" alt="hardik12c" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hardik12c&](https://github-readme-streak-stats.herokuapp.com/?user=Hardik12c&theme=material-palenight" alt="hardik12c" />
+</p>
 <h2 align='center'><i>Activity Graph 📈</i></h2>
 <a href="https://github.com/Hardik12c/github-readme-activity-graph#gh-dark-mode-only">
  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Hardik12c&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
