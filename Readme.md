@@ -27,10 +27,11 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hardik12c&show_icons=true&locale=en&layout=compact" alt="hardik12c" /></p>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hardik12c&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="hardik12c" /></p>
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hardik12c&theme=material-palenight" alt="hardik12c" />
-</p>
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Hardik12c&theme=material-palenight)](https://github.com/Elanza-48)
+</div>
 <h2 align='center'><i>Activity Graph 📈</i></h2>
 <a href="https://github.com/Hardik12c/github-readme-activity-graph#gh-dark-mode-only">
  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Hardik12c&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
