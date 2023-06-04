@@ -5,8 +5,8 @@
 <img align="right" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="40%"/><br> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardik12c&label=Profile%20views&color=0e75b6&style=flat" alt="hardik12c" /> </p>
 
-- 🌱 I’m currently learning **Currently Learning Spring Boot**
-
+- 🌱 I’m currently enhancing **My  skills**
+- 💬 Currently working as a **Springboot developer** at Moveinsync
 - 💬 Ask me about **DSA, MERN Stack Development, JavaScript**
 
 - 📫 How to reach me **hardik12c@gmail.com**
